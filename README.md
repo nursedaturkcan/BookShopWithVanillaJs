@@ -1,2 +1,2 @@
 # BookShopWithVanillaJs
- ![]()<img src="bbookshopgif.gif">
+ ![]()<img src="bbokshopgif.gif">
